@@ -10,6 +10,7 @@
 * [pandas](https://pandas.pydata.org)
 * [Matplotlib](https://matplotlib.org)
 * [Plotly Express](https://plotly.com/python/plotly-express/)
+* [LucidChart](https://www.lucidchart.com/pages)
 
 ## Colophon
 ### Author
