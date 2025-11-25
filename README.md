@@ -1,9 +1,10 @@
 # US Beer Production in the United States 2014 - 2024
 ## Data
 * [Brewers Association - Brewery Production](https://www.brewersassociation.org/category/insights/)
-* [U.S. Department of the Treasury: Alcohol and Tobacco Tax and Trade Bureau - Number of Brewers by State](https://www.ttb.gov/beer/statistics)
-* [U.S. Department of the Treasury: Alcohol and Tobacco Tax and Trade Bureau - Number of Brewers by Production Size](https://www.ttb.gov/beer/statistics)
-* [U.S. Department of the Treasury: Alcohol and Tobacco Tax and Trade Bureau - Monthly Beer National Report](https://www.ttb.gov/beer/statistics)
+* [U.S. Department of the Treasury: Alcohol and Tobacco Tax and Trade Bureau](https://www.ttb.gov/beer/statistics)
+    * Monthly Beer National Report
+    * Number of Brewers by State
+    * Number of Brewers by Production Size
 
 ## Tools Used
 * [Python](https://www.python.org)
