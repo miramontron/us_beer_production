@@ -1,10 +1,36 @@
 # Number of Breweries in the United States 2014 - 2024
+## Getting started
+To replicate this project:
+
+1. Clone the repository:
+```
+git clone
+```
+
+2. Create and activate a virtual environment, and install required packages from `requirements.txt`:
+* Linux/macOS:
+```
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+* Windows:
+```
+python -m venv venv
+source venv/Scripts/activate
+pip install -r requirements.txt
+```
+3. To deactivate:
+
+```deactivate```
+
 ## Data
 * [Brewers Association - Brewery Production](https://www.brewersassociation.org/category/insights/)
 * [U.S. Department of the Treasury: Alcohol and Tobacco Tax and Trade Bureau](https://www.ttb.gov/beer/statistics)
     * Monthly Beer National Report
     * Number of Brewers by State
     * Number of Brewers by Production Size
+
 
 ## Tools Used
 * [Python](https://www.python.org)
