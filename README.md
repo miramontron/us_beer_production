@@ -1,4 +1,4 @@
-# Beer Production in the United States 2014 - 2024
+# Number of Breweries in the United States 2014 - 2024
 ## Data
 * [Brewers Association - Brewery Production](https://www.brewersassociation.org/category/insights/)
 * [U.S. Department of the Treasury: Alcohol and Tobacco Tax and Trade Bureau](https://www.ttb.gov/beer/statistics)
