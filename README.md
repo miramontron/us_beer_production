@@ -4,7 +4,7 @@ To replicate this project:
 
 1. Clone the repository:
 ```
-git clone
+git clone https://github.com/miramontron/number_of_us_breweries.git
 ```
 
 2. Create and activate a virtual environment, and install required packages from `requirements.txt`:
